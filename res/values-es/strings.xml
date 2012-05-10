@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="accountSpinnerLabel">Cuenta</string>
+    <string name="allAccounts">Todas las cuentas</string>
+    <string name="app_name">Widget para Contactos</string>
+    <string name="widget_name">Widget Contactos</string>
+    <string name="widget_name_stack">Widgets de Contactos (ver pila)</string>
+    <string name="contactCreationFailure">Creación de Contacto fallida, comprueba el log.</string>
+    <string name="contactEmailLabel">Contacto Email</string>
+    <string name="contactNameLabel">Nombre Contacto</string>
+    <string name="contactPhoneLabel">Contacto Teléfono</string>
+    <string name="selectAccountLabel">Selecciona</string>
+    <string name="selectLabel">Selecciona etiqueta</string>
+    <string name="targetAccountLabel">Cuenta de destino</string>
+    <string name="undefinedTypeLabel">(Indefinido)</string>
+    <string name="empty_view_text">No hay Contactos cargados</string>
+    <string name="contactImageDescription">Imagen de Contacto</string>
+    <string name="checkShowNameText">Muestra nombre de Contacto</string>
+    <string name="loopContactsText">Recorre los Contactos</string>
+    
+    <!-- Configurations -->
+    <string name="contactGroup">Grupo</string>
+    <string name="contactGroupPrompt">Seleccione un grupo de Contactos para mostrarlos</string>
+    <string name="contactSorting">Ordenando</string>
+    <string name="buttonOk">OK</string>
+    <string name="buttonCancel">Cancela</string>
+    <string name="buttonContactFrequency">Por veces contactado</string>
+    <string name="buttonContactRecent">Por última vez contactado</string>
+    <string name="buttonContactDisplayName">Por nombre</string>
+    
+    <string name="invalid_provider_info">Widget de información no válida: </string>
+    
+</resources>
